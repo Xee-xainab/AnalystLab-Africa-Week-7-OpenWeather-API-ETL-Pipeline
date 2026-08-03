@@ -32,13 +32,14 @@ The API provides real-time weather information for cities around the world, incl
 ---
 
 🛠️ Tools & Technologies
-| Tool             | Purpose
-| Python	          |Programming language
-| Pandas	          | Data manipulation and transformation
-| Requests	        |API communication
-| OpenWeather      | API	Data source
-| Jupyter Notebook	| Development environment
-| CSV	Data         | storage
+
+* Tool             
+* Python	          
+* Pandas	         
+* Requests	        
+* OpenWeather     
+* Jupyter Notebook	
+* CSV	Data         
 ---
 
 ## ETL Process
