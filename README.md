@@ -1,6 +1,6 @@
 # 🌦️ Real-Time Weather Data ETL Pipeline Using OpenWeather API and Python
 
-## Project Overview
+## 📌 Project Overview
 
 This project demonstrates the development of a simple ETL (Extract, Transform, Load) pipeline using Python. The pipeline extracts real-time weather data from the OpenWeather API, transforms the raw JSON response into a clean and structured dataset using Pandas, and loads the processed data into a CSV file for future analysis.
 
@@ -8,7 +8,7 @@ The project was completed as part of the **AnalystLab Africa Batch B Internship 
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 * Extract real-time weather data from the OpenWeather API.
 * Transform the raw data into a structured and analysis-ready format.
@@ -29,18 +29,16 @@ The API provides real-time weather information for cities around the world, incl
 * Weather Condition
 * Wind Speed (m/s)
 * Date and Time
-
 ---
 
-## Tools and Technologies
-
-* Python
-* Pandas
-* Requests
-* Jupyter Notebook
-* OpenWeather API
-* CSV
-
+🛠️ Tools & Technologies
+| Tool             | Purpose
+| Python	          |Programming language
+| Pandas	          | Data manipulation and transformation
+| Requests	        |API communication
+| OpenWeather      | API	Data source
+| Jupyter Notebook	| Development environment
+| CSV	Data         | storage
 ---
 
 ## ETL Process
@@ -115,6 +113,15 @@ Weather_ETL_Pipeline/
 │
 └── README.md
 ```
+---
+
+🚀 How to Run the Project
+Clone the repository.
+Install the required libraries:
+pip install -r requirements.txt
+Open the Jupyter Notebook.
+Replace the API key with your own OpenWeather API key
+Run all notebook cells
 
 ---
 
@@ -130,4 +137,9 @@ This project demonstrates how an ETL pipeline can automate the process of extrac
 
 Data Analytics Intern – AnalystLab Africa Batch B
 
-Aspiring Data Analyst | Python | SQL | Excel | Power BI
+Data Analyst Intern | Python | SQL | Excel | Power BI
+
+ 
+
+
+
