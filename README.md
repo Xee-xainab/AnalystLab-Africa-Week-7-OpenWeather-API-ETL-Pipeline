@@ -117,12 +117,12 @@ Weather_ETL_Pipeline/
 ---
 
 🚀 How to Run the Project
-Clone the repository.
-Install the required libraries:
-pip install -r requirements.txt
-Open the Jupyter Notebook.
-Replace the API key with your own OpenWeather API key
-Run all notebook cells
+* Clone the repository.
+* Install the required libraries:
+* pip install -r requirements.txt
+* Open the Jupyter Notebook.
+* Replace the API key with your own OpenWeather API key
+* Run all notebook cells
 
 ---
 
