@@ -92,12 +92,16 @@ The collected weather data was analyzed to compare weather conditions across the
 ### Key Findings
 
 * Weather data was successfully collected for Lagos, Abuja, and London.
-* London recorded the highest temperature (**24.83°C**).
-* Abuja had the highest humidity (**93%**).
-* All three cities experienced **Overcast Clouds** during data collection.
-* London recorded the highest wind speed (**3.13 m/s**).
-* The average temperature across the selected cities was **23.59°C**.
-* The average humidity across the selected cities was **80.33%**.
+* London recorded the highest temperature (**24.67°C**).
+* Abuja had the highest humidity (**95%**).
+* Weather Condistion differ between the cities.
+   * Lagos - **Broken Clouds**
+   * Abuja - **Overcast Clouds**
+   * London - **Few Clouds**
+* Lagos recorded the highest wind speed (**2.79 m/s**).
+* The average temperature across the selected cities was **21.60°C**.
+* The average humidity across the selected cities was **85.67%**.
+* The Average wind speed across the selected cities was **1.85m/s**
 
 ---
 
