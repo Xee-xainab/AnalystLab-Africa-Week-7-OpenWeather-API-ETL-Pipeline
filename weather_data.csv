@@ -1,0 +1,4 @@
+City,temperature,humidity,weather_condition,wind_speed,date_time
+Lagos,24.67,89,Broken Clouds,2.79,2026-08-08 07:43:05
+Abuja,22.57,95,Overcast Clouds,1.87,2026-08-08 07:43:07
+London,17.57,73,Few Clouds,0.89,2026-08-08 07:43:09
