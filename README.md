@@ -1,4 +1,4 @@
-# 🌦️ # Real-Time Weather Data ETL Pipeline
+# 🌦️Real-Time Weather Data ETL Pipeline
 
 An ETL (Extract, Transform, Load) pipeline built with Python that collects live weather data for **Lagos, Abuja and London** from the OpenWeather API, cleans it with Pandas, saves it to CSV, and analyses the differences between the cities.
 
@@ -81,8 +81,8 @@ Snapshot taken on **8 August 2026, 07:43**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Xee-xainab/OPen .git
-cd <your-repo-name>
+git clone https://github.com/Xee-xainab/AnalystLab-Africa-Week-7-OpenWeather-API-ETL-Pipeline.git
+cd AnalystLab-Africa-Week-7-OpenWeather-API-ETL-Pipeline
 ```
 
 ### 2. Install the requirements
