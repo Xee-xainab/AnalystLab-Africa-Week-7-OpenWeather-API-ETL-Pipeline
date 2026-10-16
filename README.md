@@ -93,7 +93,14 @@ pip install requests pandas matplotlib jupyter
 
 ### 3. Add your OpenWeather API key
 
-Create a free account at [openweathermap.org](https://openweathermap.org/api) and generate an API key. **Never write your key directly in the notebook.** Store it as an environment variable:
+Create a free account at [openweathermap.org](https://openweathermap.org/api) and generate an API key. Then open the notebook, find this line, and replace the placeholder with your own key:
+
+```python
+API_KEY = "YOUR_API_KEY_HERE"
+```
+
+> Never push your real API key to GitHub. Keep it only on your own computer.
+
 
 ```bash
 # macOS / Linux
