@@ -81,7 +81,7 @@ Snapshot taken on **8 August 2026, 07:43**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Xee-xainab/AnalystLab-Africa-Week-7-OpenWeather-API-ETL-Pipeline.git
+git clone https://github.com/Xee-xainab/https://AnalystLab-Africa-Week-7-OpenWeather-API-ETL-Pipeline.git
 cd AnalystLab-Africa-Week-7-OpenWeather-API-ETL-Pipeline
 ```
 
